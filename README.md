@@ -130,15 +130,3 @@ SnapSend leverages the ESP32-CAM's capabilities to capture images and send them 
 3. Access uploaded images on the server in the `/media/images/` directory or through a web interface if implemented.
 
 ---
-
-## Contributing
-Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
---- 
-
-Enjoy using SnapSend!
