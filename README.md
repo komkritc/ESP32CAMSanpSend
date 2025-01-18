@@ -123,7 +123,7 @@ SnapSend leverages the ESP32-CAM's capabilities to capture images and send them 
    - Start the Django development server: `python manage.py runserver`.
 
 ---
-
+![SnapSend](https://github.com/komkritc/ESP32CAMSanpSend/blob/main/images/screenapi.png)
 ## Usage
 1. Power on your ESP32-CAM module.
 2. The module will connect to Wi-Fi and start sending images to the Django server.
