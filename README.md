@@ -48,7 +48,7 @@ SnapSend leverages the ESP32-CAM's capabilities to capture images and send them 
    - Connect the ESP32-CAM to your computer using an FTDI programmer. Ensure proper wiring (e.g., GPIO0 to GND for flashing).
 
 3. **Upload Code**:
-   - Use the provided Arduino sketch (`esp32_cam_post.ino`) in this repository.
+   - Use the provided Arduino sketch (`ESP32-CAM-SnapSend.ino`) in this repository.
    - Configure Wi-Fi credentials and server URL in the sketch:
      ```
      const char* ssid = "YOUR_WIFI_SSID";
