@@ -13,8 +13,6 @@ SnapSend is a project that enables the ESP32-CAM module to capture images and se
   - [ESP32-CAM Setup](#esp32-cam-setup)
   - [Django Server Setup](#django-server-setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
